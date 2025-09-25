@@ -1,0 +1,46 @@
+/*
+declaration
+// var
+// let -> changing variable
+// const -> fixed value
+
+
+1. Array
+-> Collection of database separated comma
+eg:
+const data = [
+  "hello",
+  [1, 2, 3],
+  {
+    height: 32,
+  }
+]
+
+2. // Object
+const data = {
+  height: 32,
+  name: "Dusyant",
+}
+
+console.log(data.name)
+
+Mutable and immutable
+object, array
+ */
+
+
+const data = [1, 2, 5, 7]
+
+// Add to the end
+data.push(8)
+
+// Remove from the end
+data.pop()
+
+// Add to the starting
+data.unshift(0)
+
+// Remove from beginning
+data.shift()
+
+console.log(data)

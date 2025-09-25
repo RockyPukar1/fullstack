@@ -1,0 +1,15 @@
+# Change directory
+cd <folder_name> -> change directory/folder
+cd .. -> come one step outside
+cd ../../nth time
+cd js/array
+
+# Create folder
+mkdir <folder_name> -> make directory
+
+# Create file
+touch <file_name>
+
+# Delete folder/file
+rm -rf <folder> -> remove - remove recursively(all inner files and folder)
+rm <folder_name/file_name>

@@ -1,0 +1,14 @@
+Primitive Data Type
+
+String -> 'hi' "hi"
+Integer -> pure decimal less
+Float -> with decimal
+Boolean -> true, false
+BigInt -> Larger integer
+undefined -> no value, or forgot
+null -> assigned intentionally
+
+# Non Primitive
+-> Mutable
+Array
+Object
