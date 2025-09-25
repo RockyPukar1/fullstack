@@ -1,6 +1,7 @@
-// Loop methods in array
-const data = [2, 3, 5, 7, 10]
+import { saveDatabase } from "./saveDatabase";
 
+// Loop methods in array
+const data = [2, 3, 6, 7, 10]
 // for (let i = 0; i < data.length; i++) {
 //   console.log(data[i])
 // }
@@ -15,4 +16,8 @@ const data = [2, 3, 5, 7, 10]
 //   return item % 5 !== 0
 // })
 // reduce
-console.log(result)
+// const result = data.reduce((accumulator, currentValue) => {
+//   return currentValue - accumulator
+// }, 0)
+// console.log(result)
+
